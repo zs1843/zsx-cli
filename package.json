@@ -1,0 +1,19 @@
+{
+  "name": "zsx-cli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "zsx": "./bin/zsx.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "fs-extra": "^8.1.0"
+  }
+}
